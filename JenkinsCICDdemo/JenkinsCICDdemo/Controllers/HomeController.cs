@@ -20,7 +20,7 @@ namespace JenkinsCICDdemo.Controllers
             return View();
         }
 
-        public ActionResult Contact(ikuki7l7)
+        public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
 
