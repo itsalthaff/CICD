@@ -13,7 +13,7 @@ namespace JenkinsCICDdemo.Controllers
             return View();
         }
 
-        public ActionResult About(asdasdaasdasdsd)
+        public ActionResult About()
         {                                                                                                                
             ViewBag.Message = "Hello newasdasasdad Woasdarld!";
 
