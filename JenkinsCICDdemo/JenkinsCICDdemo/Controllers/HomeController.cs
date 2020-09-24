@@ -13,13 +13,14 @@ namespace JenkinsCICDdemo.Controllers
             return View();
         }
 
-        public ActionResult About()dee                                                                                                                {
+        public ActionResult About()
+        {                                                                                                                
             ViewBag.Message = "Hello new World!";
 
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult Contact(ikuki7l7)
         {
             ViewBag.Message = "Your contact page.";
 
