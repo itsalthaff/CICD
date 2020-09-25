@@ -9,7 +9,7 @@ namespace JenkinsCICDdemo.Controllers
     public class CustomController : Controller
     {
         // GET: Custom
-        public ActionResult Index(0909
+        public ActionResult Index()
         {
             return View();
         }
